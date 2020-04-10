@@ -15,3 +15,4 @@ This is a Starter Template based on
    your preferred email for registration and recovery.
 4. Replace ```example.com``` in ```dockerized-wordpress/docker-compose.yml``` with
    with your own domain.
+5. Run ```docker-compose up -d```
